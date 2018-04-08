@@ -8,6 +8,7 @@ namespace GitflowTestApp
         {
             Console.WriteLine("Hello Gitflow!");
             Console.WriteLine("New message added in feature branch");
+            Console.WriteLine("Another message added in feature branch");
         }
     }
 }
